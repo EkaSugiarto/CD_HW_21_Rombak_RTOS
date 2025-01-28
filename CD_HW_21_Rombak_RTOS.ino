@@ -30,6 +30,9 @@ void setup() {
   Bar1S();
   Bar2S();
 
+  C0S();
+  C1S();
+
   myPID.SetMode(AUTOMATIC);
 }
 
